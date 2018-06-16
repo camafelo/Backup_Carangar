@@ -1,7 +1,21 @@
+GitFlow
+https://youtu.be/XJAxoUzS8fI
+https://youtu.be/prnXsXMm6e4
+
 gitignore
 https://youtu.be/g2RYXJc4934
+
+
 History
 https://youtu.be/g2RYXJc4934
+https://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio
 
+Reset, Revert & Rebase
+https://youtu.be/C-7EmtdAWWw
+https://youtu.be/5lB792XScdQ
 
-D:\Working_Directory\Projects\Backup_Carangar
+Conflictos en Git
+https://youtu.be/8EgLtk6W5CA
+https://youtu.be/9lPgq-17Zeg
+https://github.com/curiosity-starcraft/starcraft-crew
+https://www.befunky.com/create/crop-photo/
